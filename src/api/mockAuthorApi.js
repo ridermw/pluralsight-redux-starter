@@ -23,6 +23,11 @@ const authors = [
     id: 'matt-williams',
     firstName: 'Matt',
     lastName: 'Williams'
+  },
+  {
+    id: 'tim-williams',
+    firstName: 'Tim',
+    lastName: 'Williams'
   }
 ];
 
