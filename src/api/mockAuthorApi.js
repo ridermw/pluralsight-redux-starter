@@ -28,6 +28,11 @@ const authors = [
     id: 'tim-williams',
     firstName: 'Tim',
     lastName: 'Williams'
+  },
+  {
+    id: 'Alicia-williams',
+    firstName: 'Alicia',
+    lastName: 'Williams'
   }
 ];
 
