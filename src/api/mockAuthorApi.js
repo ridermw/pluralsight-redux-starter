@@ -46,6 +46,16 @@ const authors2 = [
     id: 'dan-williams',
     firstName: 'Dan',
     lastName: 'Williams'
+  },
+  {
+    id: 'tim-williams',
+    firstName: 'Tim',
+    lastName: 'Williams'
+  },
+  {
+    id: 'Alicia-williams',
+    firstName: 'Alicia',
+    lastName: 'Williams'
   }
 ];
 
