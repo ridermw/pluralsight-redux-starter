@@ -26,6 +26,29 @@ const authors = [
   }
 ];
 
+const authors2 = [
+  {
+    id: 'cory-house',
+    firstName: 'Cory',
+    lastName: 'House'
+  },
+  {
+    id: 'scott-allen',
+    firstName: 'Scott',
+    lastName: 'Allen'
+  },
+  {
+    id: 'dan-wahlin',
+    firstName: 'Dan',
+    lastName: 'Wahlin'
+  },
+  {
+    id: 'dan-williams',
+    firstName: 'Dan',
+    lastName: 'Williams'
+  }
+];
+
 //This would be performed on the server in a real app. Just stubbing in.
 const generateId = (author) => {
   return author.firstName.toLowerCase() + '-' + author.lastName.toLowerCase();
